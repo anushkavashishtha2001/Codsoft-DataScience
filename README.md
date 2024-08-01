@@ -1,1 +1,1 @@
-# Codsoft-Data-Science
+# Codsoft-DataScience
